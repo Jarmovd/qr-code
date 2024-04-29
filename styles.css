@@ -15,6 +15,10 @@ body {
   font-size: 15px;
 }
 
+header h1 {
+  display: none;
+}
+
 #qr-card {
   background-color: white;
   width: 100%;
